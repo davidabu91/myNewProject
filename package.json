@@ -2,7 +2,7 @@
   "name": "mysmarthouse",
   "version": "0.1.0",
   "private": true,
-  "homepage": "davidabu91.githup.io.myNewProject",
+  "homepage": "http://davidabu91.github.io/myNewProject",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
